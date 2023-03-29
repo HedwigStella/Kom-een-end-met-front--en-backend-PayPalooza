@@ -1,3 +1,4 @@
+<?php ?> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +9,8 @@
     <link rel="stylesheet" href="start.css">
 </head>
 <body>
+    <form action=" functions.php"method="get">
+    <input type = "text" name="num01"placeholder="Number 1">   
     <img id="logo" src="image (1).png" alt="">
     <h1>Startpagina</h1>
     <h1><a href="zbalans.html">Balans</a></h1>
