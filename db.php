@@ -12,9 +12,9 @@
 		
 		private static function dbConnect() {
             $dbhost		= "localhost";
-            $dbname     = "db_duogroepen";
-			$dbuser     = "duogroepen";
-			$dbpass     = 'duogroepen';
+            $dbname     = "Paypalooza";
+			$dbuser     = "Quintis Lobée";
+			$dbpass     = '';
             $conn		= "";             // connection string
             $pdo		= "";             // handler
             $charset 	= 'utf8mb4';
